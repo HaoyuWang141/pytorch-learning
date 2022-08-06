@@ -1,5 +1,11 @@
 # pytorch_tutorial
 
+整笑了，它数据也在文件夹里面，一共500MB，需要亿吨操作猛如虎，等我有闲情逸致再说吧
+
+视频网站：https://www.bilibili.com/video/BV1Pa411D7vw
+
+## 下面是人家原来的readme
+
 #### 介绍
 Jupyter版本的内容，后面上传python版本
 
